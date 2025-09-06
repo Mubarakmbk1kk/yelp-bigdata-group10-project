@@ -1,0 +1,10 @@
+pandas
+pyarrow
+fastparquet
+pyspark==3.3.2
+vaderSentiment
+pymongo
+matplotlib
+scikit-learn
+tensorflow   # optional for ML steps
+streamlit    # optional for demo app
